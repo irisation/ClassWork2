@@ -1,10 +1,10 @@
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-import java.util.List;
+
 
 public class CalculatorTest {
-    Calculator calc;
+    Calculator  calc;
 
     @BeforeMethod
     public void setup(){
